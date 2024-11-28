@@ -1,0 +1,16 @@
+  <h2>Lista de Maquinas</h2>
+  <ul class="nav flex-column">
+    <li class="nav-item">
+      <a
+        class="nav-link btn btn-primary"
+        routerLink="/dashboard/graph"
+        [queryParams] = "{machine_id: 2}"
+        routerLinkActive="activebutton"
+        ariaCurrentWhenActive="page"
+      >
+        Maquina1
+      </a>
+    </li>
+  </ul>
+
+<router-outlet></router-outlet>
