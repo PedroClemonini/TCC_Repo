@@ -1,5 +1,5 @@
 # Projeto de Conclusão de Curso | Sistema MES para indústria têxtil
-
+Última atualização: 02/12/2024
 
 🚀 Este repositório contém o versionamento do meu projeto de TCC no Instituto Federal de São Paulo. Basicamente trata-se de um software para gerenciamento de operações da manufatura. 
 O sistema ainda está em desenvolvimento, e este repositório será atualizado até sua conslusão
